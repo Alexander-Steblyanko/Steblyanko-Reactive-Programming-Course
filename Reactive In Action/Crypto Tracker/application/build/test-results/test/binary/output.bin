@@ -1,0 +1,15 @@
+s02:18:44,922 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback-test.xml]
+q02:18:44,923 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback.groovy]
+ù02:18:44,923 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Found resource [logback.xml] at [file:/C:/Users/vnone/Downloads/KPI-main/effective-codecs/Reactive%20Programming%20Course%2021/Reactive%20In%20Action/Crypto%20Tracker/application/build/resources/test/logback.xml]
+á02:18:44,925 |-WARN in ch.qos.logback.classic.LoggerContext[default] - Resource [logback.xml] occurs multiple times on the classpath.
+û02:18:44,925 |-WARN in ch.qos.logback.classic.LoggerContext[default] - Resource [logback.xml] occurs at [file:/C:/Users/vnone/Downloads/KPI-main/effective-codecs/Reactive%20Programming%20Course%2021/Reactive%20In%20Action/Crypto%20Tracker/application/build/resources/test/logback.xml]
+û02:18:44,925 |-WARN in ch.qos.logback.classic.LoggerContext[default] - Resource [logback.xml] occurs at [file:/C:/Users/vnone/Downloads/KPI-main/effective-codecs/Reactive%20Programming%20Course%2021/Reactive%20In%20Action/Crypto%20Tracker/application/build/resources/main/logback.xml]
+j02:18:45,057 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - debug attribute not set
+ñ02:18:45,058 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [ch.qos.logback.core.ConsoleAppender]
+f02:18:45,074 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [STDOUT]
+∂02:18:45,084 |-INFO in ch.qos.logback.core.joran.action.NestedComplexPropertyIA - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property
+t02:18:45,131 |-INFO in ch.qos.logback.classic.joran.action.RootLoggerAction - Setting level of ROOT logger to WARN
+02:18:45,131 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [STDOUT] to Logger[ROOT]
+h02:18:45,132 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - End of configuration.
+ä02:18:45,133 |-INFO in ch.qos.logback.classic.joran.JoranConfigurator@533377b - Registering current configuration as safe fallback point
+

@@ -1,0 +1,65 @@
+-Checking case when flatMap is out of switch
+W02:16:33.515 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+Interval: 1
+Price: 100.0
+AVG: 100.0
+Price: 101.0
+AVG: 101.0
+Price: 102.0
+AVG: 102.0
+Price: 103.0
+AVG: 103.0
+Price: 104.0
+Interval: 2
+Price: 105.0
+Price: 106.0
+AVG: 103.0
+Price: 107.0
+Price: 108.0
+Price: 109.0
+Price: 110.0
+Price: 111.0
+Price: 112.0
+Price: 113.0
+Price: 114.0
+Price: 115.0
+Price: 116.0
+Price: 117.0
+Price: 118.0
+Price: 119.0
+1Checking case when flatMap is inside the switch
+Interval: 1
+Price: 100.0
+AVG: 100.0
+Price: 101.0
+AVG: 101.0
+Price: 102.0
+AVG: 102.0
+Price: 103.0
+AVG: 103.0
+Price: 104.0
+Interval: 2
+Price: 105.0
+Price: 106.0
+AVG: 103.0
+Price: 107.0
+Price: 108.0
+AVG: 107.5
+Price: 109.0
+Interval: 3
+Price: 110.0
+Price: 111.0
+Price: 112.0
+AVG: 106.0
+Price: 113.0
+Price: 114.0
+Interval: 4
+Price: 115.0
+Price: 116.0
+Price: 117.0
+Price: 118.0
+AVG: 109.0
+Price: 119.0
+AVG: 119.0
+Interval: 5
+AVG: 109.5

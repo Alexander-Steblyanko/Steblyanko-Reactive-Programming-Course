@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DLMTask2Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-08T23:30:24" hostname="DESKTOP-OUBC3GQ" time="0.659">
+  <properties/>
+  <testcase name="testSolution()" classname="DLMTask2Tests" time="0.659"/>
+  <system-out><![CDATA[01:30:24.990 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+01:30:24.995 [Test worker] DEBUG reactor.core.publisher.Hooks - Hooking onEachOperator: DLMTask2Tests$$Lambda$315/0x00000001001ee840@7dda48d9
+01:30:25.284 [Test worker] INFO reactor.Flux.PublishOn.1 - | onSubscribe([Fuseable] FluxPublishOn.PublishOnSubscriber)
+01:30:25.292 [Test worker] INFO reactor.Flux.PublishOn.1 - | request(unbounded)
+01:30:25.330 [single-1] INFO reactor.Flux.PublishOn.1 - | onNext(0)
+01:30:25.339 [single-1] INFO reactor.Flux.PublishOn.1 - | onNext(1)
+01:30:25.354 [single-1] INFO reactor.Flux.PublishOn.1 - | onNext(2)
+01:30:25.354 [single-1] INFO reactor.Flux.PublishOn.1 - | onNext(3)
+01:30:25.369 [single-1] INFO reactor.Flux.PublishOn.1 - | onNext(4)
+01:30:25.395 [single-1] INFO reactor.Flux.PublishOn.1 - | onNext(5)
+01:30:25.395 [single-1] INFO reactor.Flux.PublishOn.1 - | onNext(6)
+01:30:25.396 [single-1] INFO reactor.Flux.PublishOn.1 - | onNext(7)
+01:30:25.425 [single-1] INFO reactor.Flux.PublishOn.1 - | onNext(8)
+01:30:25.425 [single-1] INFO reactor.Flux.PublishOn.1 - | onNext(9)
+01:30:25.429 [single-1] INFO reactor.Flux.PublishOn.1 - | cancel()
+01:30:25.545 [Test worker] DEBUG reactor.core.publisher.Hooks - Reset to factory defaults : onEachOperator
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HnSTask3Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-08T23:23:41" hostname="DESKTOP-OUBC3GQ" time="0.35">
+  <properties/>
+  <testcase name="testSolution()" classname="HnSTask3Tests" time="0.35"/>
+  <system-out><![CDATA[01:23:41.496 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
